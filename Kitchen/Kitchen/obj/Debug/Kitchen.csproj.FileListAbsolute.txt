@@ -1,0 +1,9 @@
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\Kitchen\Kitchen\bin\Debug\Kitchen.exe.config
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\Kitchen\Kitchen\bin\Debug\Kitchen.exe
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\Kitchen\Kitchen\bin\Debug\Kitchen.pdb
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\Kitchen\Kitchen\obj\Debug\Kitchen.csprojResolveAssemblyReference.cache
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\Kitchen\Kitchen\obj\Debug\Kitchen.Form1.resources
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\Kitchen\Kitchen\obj\Debug\Kitchen.Properties.Resources.resources
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\Kitchen\Kitchen\obj\Debug\Kitchen.csproj.GenerateResource.Cache
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\Kitchen\Kitchen\obj\Debug\Kitchen.exe
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\Kitchen\Kitchen\obj\Debug\Kitchen.pdb

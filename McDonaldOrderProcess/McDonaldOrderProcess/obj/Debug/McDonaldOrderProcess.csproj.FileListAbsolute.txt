@@ -1,0 +1,11 @@
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderProcess\McDonaldOrderProcess\bin\Debug\McDonaldOrderProcess.exe.config
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderProcess\McDonaldOrderProcess\bin\Debug\McDonaldOrderProcess.exe
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderProcess\McDonaldOrderProcess\bin\Debug\McDonaldOrderProcess.pdb
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderProcess\McDonaldOrderProcess\obj\Debug\McDonaldOrderProcess.Form1.resources
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderProcess\McDonaldOrderProcess\obj\Debug\McDonaldOrderProcess.menu.resources
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderProcess\McDonaldOrderProcess\obj\Debug\McDonaldOrderProcess.Order_create.resources
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderProcess\McDonaldOrderProcess\obj\Debug\McDonaldOrderProcess.Properties.Resources.resources
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderProcess\McDonaldOrderProcess\obj\Debug\McDonaldOrderProcess.csproj.GenerateResource.Cache
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderProcess\McDonaldOrderProcess\obj\Debug\McDonaldOrderProcess.exe
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderProcess\McDonaldOrderProcess\obj\Debug\McDonaldOrderProcess.pdb
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderProcess\McDonaldOrderProcess\obj\Debug\McDonaldOrderProcess.csprojResolveAssemblyReference.cache

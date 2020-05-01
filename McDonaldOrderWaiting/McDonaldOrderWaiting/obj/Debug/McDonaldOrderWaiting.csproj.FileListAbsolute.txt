@@ -1,0 +1,8 @@
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderWaiting\McDonaldOrderWaiting\bin\Debug\McDonaldOrderWaiting.exe.config
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderWaiting\McDonaldOrderWaiting\bin\Debug\McDonaldOrderWaiting.exe
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderWaiting\McDonaldOrderWaiting\bin\Debug\McDonaldOrderWaiting.pdb
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderWaiting\McDonaldOrderWaiting\obj\Debug\McDonaldOrderWaiting.Form1.resources
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderWaiting\McDonaldOrderWaiting\obj\Debug\McDonaldOrderWaiting.Properties.Resources.resources
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderWaiting\McDonaldOrderWaiting\obj\Debug\McDonaldOrderWaiting.csproj.GenerateResource.Cache
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderWaiting\McDonaldOrderWaiting\obj\Debug\McDonaldOrderWaiting.exe
+F:\PAF-kiet\pdc\PDC wala\PDCProjectFinal\PDCProjectFinal\McDonaldOrderWaiting\McDonaldOrderWaiting\obj\Debug\McDonaldOrderWaiting.pdb
